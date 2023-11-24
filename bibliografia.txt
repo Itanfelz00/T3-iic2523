@@ -1,1 +1,7 @@
 
+articulo completo de como usar a detalle los canales:
+https://go101.org/article/channel.html
+
+docker compose network 
+https://docs.docker.com/compose/compose-file/06-networks/
+https://docs.docker.com/compose/networking/

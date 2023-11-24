@@ -1,0 +1,83 @@
+version: '3'
+services:
+  filosofo1:
+    image: tu_imagen_del_filosofo1
+    build: .
+    environment:
+      - MY_NAME=filosofo1
+      - R_NAME=filosofo2
+      - L_NAME=filosofo5
+      - R_IP=${F2_IP}
+      - L_IP=${F5_IP}
+      - id=1
+      - EAT_AMOUNT=${EAT_AMOUNT}
+
+    networks:
+      filosofos_net:
+        ipv4_address: ${F1_IP}
+
+  filosofo2:
+    image: tu_imagen_del_filosofo2
+    build: .
+    environment:
+      - MY_NAME=filosofo2
+      - R_NAME=filosofo3
+      - L_NAME=filosofo1
+      - R_IP=${F3_IP}
+      - L_IP=${F1_IP}
+      - id=2
+      - EAT_AMOUNT=${EAT_AMOUNT}
+    networks:
+      filosofos_net:
+        ipv4_address:  ${F2_IP}
+  filosofo3:
+    image: tu_imagen_del_filosofo3
+    build: .
+    environment:
+      - MY_NAME=filosofo3
+      - R_NAME=filosofo4
+      - L_NAME=filosofo2
+      - R_IP=${F4_IP}
+      - L_IP=${F2_IP}
+      - id=3
+      - EAT_AMOUNT=${EAT_AMOUNT}
+    networks:
+      filosofos_net:
+        ipv4_address:  ${F3_IP}
+
+  filosofo4:
+    image: tu_imagen_del_filosofo4
+    build: .
+    environment:
+      - MY_NAME=filosofo4
+      - R_NAME=filosofo5
+      - L_NAME=filosofo3
+      - R_IP=${F5_IP}
+      - L_IP=${F3_IP}
+      - id=4
+      - EAT_AMOUNT=${EAT_AMOUNT}
+    networks:
+      filosofos_net:
+        ipv4_address:  ${F4_IP}
+  filosofo5:
+    image: tu_imagen_del_filosofo5
+    build: .
+    environment:
+      - MY_NAME=filosofo5
+      - R_NAME=filosofo1
+      - L_NAME=filosofo4
+      - R_IP=${F1_IP}
+      - L_IP=${F4_IP}
+      - id=5
+      - EAT_AMOUNT=${EAT_AMOUNT}
+    networks:
+      filosofos_net:
+        ipv4_address:  ${F5_IP}
+
+
+networks:
+  filosofos_net:
+    driver: bridge
+    ipam:
+      config:
+        - subnet: 172.18.0.0/16

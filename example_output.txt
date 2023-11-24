@@ -1,0 +1,415 @@
+t3-iic2523-itanfelz00-filosofo2-1  | Thinking for:  3 seconds
+t3-iic2523-itanfelz00-filosofo5-1  | Thinking for:  3 seconds
+t3-iic2523-itanfelz00-filosofo4-1  | Thinking for:  2 seconds
+t3-iic2523-itanfelz00-filosofo3-1  | Thinking for:  1 seconds
+t3-iic2523-itanfelz00-filosofo1-1  | Thinking for:  4 seconds
+t3-iic2523-itanfelz00-filosofo3-1  | the philosopher is hungry
+t3-iic2523-itanfelz00-filosofo3-1  | my sticks are:  true false
+t3-iic2523-itanfelz00-filosofo3-1  | pls pass me my RIGHT
+t3-iic2523-itanfelz00-filosofo3-1  | waiting for my sticks
+t3-iic2523-itanfelz00-filosofo4-1  | have they asked me for my sticks?:  true false
+t3-iic2523-itanfelz00-filosofo4-1  | passing my LEFT fork
+t3-iic2523-itanfelz00-filosofo3-1  | Received stick from RIGHT
+t3-iic2523-itanfelz00-filosofo3-1  | EATING
+t3-iic2523-itanfelz00-filosofo4-1  | the philosopher is hungry
+t3-iic2523-itanfelz00-filosofo4-1  | my sticks are:  false false
+t3-iic2523-itanfelz00-filosofo4-1  | pls pass me my LEFT
+t3-iic2523-itanfelz00-filosofo4-1  | pls pass me my RIGHT
+t3-iic2523-itanfelz00-filosofo4-1  | waiting for my sticks
+t3-iic2523-itanfelz00-filosofo5-1  | have they asked me for my sticks?:  true false
+t3-iic2523-itanfelz00-filosofo5-1  | passing my LEFT fork
+t3-iic2523-itanfelz00-filosofo4-1  | Received stick from RIGHT
+t3-iic2523-itanfelz00-filosofo4-1  | waiting for my sticks
+t3-iic2523-itanfelz00-filosofo3-1  | I HAVE ATE:  1  times
+t3-iic2523-itanfelz00-filosofo3-1  | Thinking for:  2 seconds
+t3-iic2523-itanfelz00-filosofo3-1  | Done Eating
+t3-iic2523-itanfelz00-filosofo3-1  | have they asked me for my sticks?:  false false
+t3-iic2523-itanfelz00-filosofo4-1  | Received stick from LEFT
+t3-iic2523-itanfelz00-filosofo4-1  | EATING
+t3-iic2523-itanfelz00-filosofo3-1  | have they asked me for my sticks?:  false true
+t3-iic2523-itanfelz00-filosofo3-1  | passing my RIGHT fork
+t3-iic2523-itanfelz00-filosofo5-1  | the philosopher is hungry
+t3-iic2523-itanfelz00-filosofo5-1  | my sticks are:  false true
+t3-iic2523-itanfelz00-filosofo5-1  | pls pass me my LEFT
+t3-iic2523-itanfelz00-filosofo5-1  | waiting for my sticks
+t3-iic2523-itanfelz00-filosofo2-1  | the philosopher is hungry
+t3-iic2523-itanfelz00-filosofo2-1  | my sticks are:  true false
+t3-iic2523-itanfelz00-filosofo2-1  | pls pass me my RIGHT
+t3-iic2523-itanfelz00-filosofo2-1  | waiting for my sticks
+t3-iic2523-itanfelz00-filosofo3-1  | have they asked me for my sticks?:  true false
+t3-iic2523-itanfelz00-filosofo2-1  | Received stick from RIGHT
+t3-iic2523-itanfelz00-filosofo2-1  | EATING
+t3-iic2523-itanfelz00-filosofo3-1  | passing my LEFT fork
+t3-iic2523-itanfelz00-filosofo4-1  | I HAVE ATE:  1  times
+t3-iic2523-itanfelz00-filosofo4-1  | Thinking for:  4 seconds
+t3-iic2523-itanfelz00-filosofo4-1  | Done Eating
+t3-iic2523-itanfelz00-filosofo4-1  | have they asked me for my sticks?:  false false
+t3-iic2523-itanfelz00-filosofo4-1  | have they asked me for my sticks?:  false true
+t3-iic2523-itanfelz00-filosofo4-1  | passing my RIGHT fork
+t3-iic2523-itanfelz00-filosofo5-1  | Received stick from LEFT
+t3-iic2523-itanfelz00-filosofo5-1  | EATING
+t3-iic2523-itanfelz00-filosofo2-1  | I HAVE ATE:  1  times
+t3-iic2523-itanfelz00-filosofo2-1  | Thinking for:  4 seconds
+t3-iic2523-itanfelz00-filosofo2-1  | Done Eating
+t3-iic2523-itanfelz00-filosofo2-1  | have they asked me for my sticks?:  false false
+t3-iic2523-itanfelz00-filosofo1-1  | the philosopher is hungry
+t3-iic2523-itanfelz00-filosofo3-1  | the philosopher is hungry
+t3-iic2523-itanfelz00-filosofo1-1  | my sticks are:  false false
+t3-iic2523-itanfelz00-filosofo2-1  | have they asked me for my sticks?:  false true
+t3-iic2523-itanfelz00-filosofo2-1  | passing my RIGHT fork
+t3-iic2523-itanfelz00-filosofo4-1  | have they asked me for my sticks?:  true false
+t3-iic2523-itanfelz00-filosofo1-1  | pls pass me my LEFT
+t3-iic2523-itanfelz00-filosofo5-1  | I HAVE ATE:  1  times
+t3-iic2523-itanfelz00-filosofo3-1  | my sticks are:  false false
+t3-iic2523-itanfelz00-filosofo2-1  | have they asked me for my sticks?:  true false
+t3-iic2523-itanfelz00-filosofo1-1  | pls pass me my RIGHT
+t3-iic2523-itanfelz00-filosofo4-1  | passing my LEFT fork
+t3-iic2523-itanfelz00-filosofo5-1  | Thinking for:  4 seconds
+t3-iic2523-itanfelz00-filosofo3-1  | pls pass me my LEFT
+t3-iic2523-itanfelz00-filosofo2-1  | passing my LEFT fork
+t3-iic2523-itanfelz00-filosofo5-1  | Done Eating
+t3-iic2523-itanfelz00-filosofo5-1  | have they asked me for my sticks?:  false false
+t3-iic2523-itanfelz00-filosofo1-1  | waiting for my sticks
+t3-iic2523-itanfelz00-filosofo3-1  | pls pass me my RIGHT
+t3-iic2523-itanfelz00-filosofo3-1  | waiting for my sticks
+t3-iic2523-itanfelz00-filosofo3-1  | Received stick from LEFT
+t3-iic2523-itanfelz00-filosofo5-1  | have they asked me for my sticks?:  false true
+t3-iic2523-itanfelz00-filosofo5-1  | passing my RIGHT fork
+t3-iic2523-itanfelz00-filosofo3-1  | waiting for my sticks
+t3-iic2523-itanfelz00-filosofo1-1  | Received stick from LEFT
+t3-iic2523-itanfelz00-filosofo1-1  | waiting for my sticks
+t3-iic2523-itanfelz00-filosofo1-1  | Received stick from RIGHT
+t3-iic2523-itanfelz00-filosofo3-1  | Received stick from RIGHT
+t3-iic2523-itanfelz00-filosofo3-1  | EATING
+t3-iic2523-itanfelz00-filosofo1-1  | EATING
+t3-iic2523-itanfelz00-filosofo3-1  | I HAVE ATE:  2  times
+t3-iic2523-itanfelz00-filosofo1-1  | I HAVE ATE:  1  times
+t3-iic2523-itanfelz00-filosofo3-1  | Thinking for:  4 seconds
+t3-iic2523-itanfelz00-filosofo3-1  | Done Eating
+t3-iic2523-itanfelz00-filosofo3-1  | have they asked me for my sticks?:  false false
+t3-iic2523-itanfelz00-filosofo1-1  | Thinking for:  3 seconds
+t3-iic2523-itanfelz00-filosofo1-1  | Done Eating
+t3-iic2523-itanfelz00-filosofo1-1  | have they asked me for my sticks?:  false false
+t3-iic2523-itanfelz00-filosofo4-1  | the philosopher is hungry
+t3-iic2523-itanfelz00-filosofo4-1  | my sticks are:  false false
+t3-iic2523-itanfelz00-filosofo4-1  | pls pass me my LEFT
+t3-iic2523-itanfelz00-filosofo4-1  | pls pass me my RIGHT
+t3-iic2523-itanfelz00-filosofo4-1  | waiting for my sticks
+t3-iic2523-itanfelz00-filosofo3-1  | have they asked me for my sticks?:  false true
+t3-iic2523-itanfelz00-filosofo5-1  | have they asked me for my sticks?:  true false
+t3-iic2523-itanfelz00-filosofo3-1  | passing my RIGHT fork
+t3-iic2523-itanfelz00-filosofo5-1  | passing my LEFT fork
+t3-iic2523-itanfelz00-filosofo4-1  | Received stick from LEFT
+t3-iic2523-itanfelz00-filosofo4-1  | waiting for my sticks
+t3-iic2523-itanfelz00-filosofo4-1  | Received stick from RIGHT
+t3-iic2523-itanfelz00-filosofo4-1  | EATING
+t3-iic2523-itanfelz00-filosofo2-1  | the philosopher is hungry
+t3-iic2523-itanfelz00-filosofo2-1  | my sticks are:  false false
+t3-iic2523-itanfelz00-filosofo2-1  | pls pass me my LEFT
+t3-iic2523-itanfelz00-filosofo2-1  | pls pass me my RIGHT
+t3-iic2523-itanfelz00-filosofo2-1  | waiting for my sticks
+t3-iic2523-itanfelz00-filosofo1-1  | have they asked me for my sticks?:  false true
+t3-iic2523-itanfelz00-filosofo2-1  | Received stick from RIGHT
+t3-iic2523-itanfelz00-filosofo3-1  | have they asked me for my sticks?:  true false
+t3-iic2523-itanfelz00-filosofo1-1  | passing my RIGHT fork
+t3-iic2523-itanfelz00-filosofo2-1  | waiting for my sticks
+t3-iic2523-itanfelz00-filosofo2-1  | Received stick from LEFT
+t3-iic2523-itanfelz00-filosofo2-1  | EATING
+t3-iic2523-itanfelz00-filosofo3-1  | passing my LEFT fork
+t3-iic2523-itanfelz00-filosofo1-1  | the philosopher is hungry
+t3-iic2523-itanfelz00-filosofo5-1  | the philosopher is hungry
+t3-iic2523-itanfelz00-filosofo1-1  | my sticks are:  true false
+t3-iic2523-itanfelz00-filosofo1-1  | pls pass me my RIGHT
+t3-iic2523-itanfelz00-filosofo1-1  | waiting for my sticks
+t3-iic2523-itanfelz00-filosofo5-1  | my sticks are:  false false
+t3-iic2523-itanfelz00-filosofo5-1  | pls pass me my LEFT
+t3-iic2523-itanfelz00-filosofo5-1  | pls pass me my RIGHT
+t3-iic2523-itanfelz00-filosofo1-1  | waiting for my sticks
+t3-iic2523-itanfelz00-filosofo5-1  | waiting for my sticks
+t3-iic2523-itanfelz00-filosofo4-1  | I HAVE ATE:  2  times
+t3-iic2523-itanfelz00-filosofo4-1  | Thinking for:  3 seconds
+t3-iic2523-itanfelz00-filosofo5-1  | Received stick from LEFT
+t3-iic2523-itanfelz00-filosofo5-1  | waiting for my sticks
+t3-iic2523-itanfelz00-filosofo4-1  | Done Eating
+t3-iic2523-itanfelz00-filosofo4-1  | have they asked me for my sticks?:  false false
+t3-iic2523-itanfelz00-filosofo4-1  | have they asked me for my sticks?:  false true
+t3-iic2523-itanfelz00-filosofo4-1  | passing my RIGHT fork
+t3-iic2523-itanfelz00-filosofo2-1  | I HAVE ATE:  2  times
+t3-iic2523-itanfelz00-filosofo2-1  | Thinking for:  1 seconds
+t3-iic2523-itanfelz00-filosofo1-1  | Received stick from RIGHT
+t3-iic2523-itanfelz00-filosofo1-1  | EATING
+t3-iic2523-itanfelz00-filosofo2-1  | Done Eating
+t3-iic2523-itanfelz00-filosofo2-1  | have they asked me for my sticks?:  false false
+t3-iic2523-itanfelz00-filosofo2-1  | have they asked me for my sticks?:  true false
+t3-iic2523-itanfelz00-filosofo2-1  | passing my LEFT fork
+t3-iic2523-itanfelz00-filosofo3-1  | the philosopher is hungry
+t3-iic2523-itanfelz00-filosofo3-1  | my sticks are:  false false
+t3-iic2523-itanfelz00-filosofo4-1  | have they asked me for my sticks?:  true false
+t3-iic2523-itanfelz00-filosofo2-1  | have they asked me for my sticks?:  false true
+t3-iic2523-itanfelz00-filosofo3-1  | pls pass me my LEFT
+t3-iic2523-itanfelz00-filosofo4-1  | passing my LEFT fork
+t3-iic2523-itanfelz00-filosofo3-1  | pls pass me my RIGHT
+t3-iic2523-itanfelz00-filosofo3-1  | waiting for my sticks
+t3-iic2523-itanfelz00-filosofo2-1  | passing my RIGHT fork
+t3-iic2523-itanfelz00-filosofo3-1  | Received stick from LEFT
+t3-iic2523-itanfelz00-filosofo3-1  | waiting for my sticks
+t3-iic2523-itanfelz00-filosofo3-1  | Received stick from RIGHT
+t3-iic2523-itanfelz00-filosofo3-1  | EATING
+t3-iic2523-itanfelz00-filosofo2-1  | the philosopher is hungry
+t3-iic2523-itanfelz00-filosofo2-1  | my sticks are:  false false
+t3-iic2523-itanfelz00-filosofo2-1  | pls pass me my LEFT
+t3-iic2523-itanfelz00-filosofo2-1  | pls pass me my RIGHT
+t3-iic2523-itanfelz00-filosofo2-1  | waiting for my sticks
+t3-iic2523-itanfelz00-filosofo1-1  | I HAVE ATE:  2  times
+t3-iic2523-itanfelz00-filosofo1-1  | Thinking for:  2 seconds
+t3-iic2523-itanfelz00-filosofo2-1  | Received stick from LEFT
+t3-iic2523-itanfelz00-filosofo5-1  | Received stick from RIGHT
+t3-iic2523-itanfelz00-filosofo1-1  | Done Eating
+t3-iic2523-itanfelz00-filosofo1-1  | have they asked me for my sticks?:  true false
+t3-iic2523-itanfelz00-filosofo1-1  | passing my LEFT fork
+t3-iic2523-itanfelz00-filosofo2-1  | waiting for my sticks
+t3-iic2523-itanfelz00-filosofo5-1  | EATING
+t3-iic2523-itanfelz00-filosofo1-1  | have they asked me for my sticks?:  false true
+t3-iic2523-itanfelz00-filosofo1-1  | passing my RIGHT fork
+t3-iic2523-itanfelz00-filosofo3-1  | I HAVE ATE:  3  times
+t3-iic2523-itanfelz00-filosofo3-1  | Thinking for:  2 seconds
+t3-iic2523-itanfelz00-filosofo3-1  | Done Eating
+t3-iic2523-itanfelz00-filosofo3-1  | have they asked me for my sticks?:  false false
+t3-iic2523-itanfelz00-filosofo3-1  | have they asked me for my sticks?:  true false
+t3-iic2523-itanfelz00-filosofo3-1  | passing my LEFT fork
+t3-iic2523-itanfelz00-filosofo2-1  | Received stick from RIGHT
+t3-iic2523-itanfelz00-filosofo2-1  | EATING
+t3-iic2523-itanfelz00-filosofo5-1  | I HAVE ATE:  2  times
+t3-iic2523-itanfelz00-filosofo5-1  | Thinking for:  2 seconds
+t3-iic2523-itanfelz00-filosofo5-1  | Done Eating
+t3-iic2523-itanfelz00-filosofo5-1  | have they asked me for my sticks?:  false false
+t3-iic2523-itanfelz00-filosofo2-1  | I HAVE ATE:  3  times
+t3-iic2523-itanfelz00-filosofo4-1  | the philosopher is hungry
+t3-iic2523-itanfelz00-filosofo2-1  | Thinking for:  3 seconds
+t3-iic2523-itanfelz00-filosofo3-1  | have they asked me for my sticks?:  false true
+t3-iic2523-itanfelz00-filosofo2-1  | Done Eating
+t3-iic2523-itanfelz00-filosofo4-1  | my sticks are:  false false
+t3-iic2523-itanfelz00-filosofo3-1  | passing my RIGHT fork
+t3-iic2523-itanfelz00-filosofo2-1  | have they asked me for my sticks?:  false false
+t3-iic2523-itanfelz00-filosofo5-1  | have they asked me for my sticks?:  true false
+t3-iic2523-itanfelz00-filosofo4-1  | pls pass me my LEFT
+t3-iic2523-itanfelz00-filosofo4-1  | pls pass me my RIGHT
+t3-iic2523-itanfelz00-filosofo4-1  | waiting for my sticks
+t3-iic2523-itanfelz00-filosofo4-1  | Received stick from LEFT
+t3-iic2523-itanfelz00-filosofo4-1  | waiting for my sticks
+t3-iic2523-itanfelz00-filosofo5-1  | passing my LEFT fork
+t3-iic2523-itanfelz00-filosofo4-1  | Received stick from RIGHT
+t3-iic2523-itanfelz00-filosofo4-1  | EATING
+t3-iic2523-itanfelz00-filosofo1-1  | the philosopher is hungry
+t3-iic2523-itanfelz00-filosofo1-1  | my sticks are:  false false
+t3-iic2523-itanfelz00-filosofo1-1  | pls pass me my LEFT
+t3-iic2523-itanfelz00-filosofo1-1  | pls pass me my RIGHT
+t3-iic2523-itanfelz00-filosofo5-1  | have they asked me for my sticks?:  false true
+t3-iic2523-itanfelz00-filosofo1-1  | waiting for my sticks
+t3-iic2523-itanfelz00-filosofo2-1  | have they asked me for my sticks?:  true false
+t3-iic2523-itanfelz00-filosofo5-1  | passing my RIGHT fork
+t3-iic2523-itanfelz00-filosofo2-1  | passing my LEFT fork
+t3-iic2523-itanfelz00-filosofo1-1  | Received stick from LEFT
+t3-iic2523-itanfelz00-filosofo1-1  | waiting for my sticks
+t3-iic2523-itanfelz00-filosofo1-1  | Received stick from RIGHT
+t3-iic2523-itanfelz00-filosofo1-1  | EATING
+t3-iic2523-itanfelz00-filosofo3-1  | the philosopher is hungry
+t3-iic2523-itanfelz00-filosofo3-1  | my sticks are:  false false
+t3-iic2523-itanfelz00-filosofo2-1  | have they asked me for my sticks?:  false true
+t3-iic2523-itanfelz00-filosofo2-1  | passing my RIGHT fork
+t3-iic2523-itanfelz00-filosofo3-1  | pls pass me my LEFT
+t3-iic2523-itanfelz00-filosofo3-1  | pls pass me my RIGHT
+t3-iic2523-itanfelz00-filosofo3-1  | waiting for my sticks
+t3-iic2523-itanfelz00-filosofo3-1  | Received stick from LEFT
+t3-iic2523-itanfelz00-filosofo3-1  | waiting for my sticks
+t3-iic2523-itanfelz00-filosofo4-1  | I HAVE ATE:  3  times
+t3-iic2523-itanfelz00-filosofo4-1  | Thinking for:  1 seconds
+t3-iic2523-itanfelz00-filosofo3-1  | Received stick from RIGHT
+t3-iic2523-itanfelz00-filosofo4-1  | Done Eating
+t3-iic2523-itanfelz00-filosofo3-1  | EATING
+t3-iic2523-itanfelz00-filosofo4-1  | have they asked me for my sticks?:  false false
+t3-iic2523-itanfelz00-filosofo4-1  | have they asked me for my sticks?:  true false
+t3-iic2523-itanfelz00-filosofo4-1  | passing my LEFT fork
+t3-iic2523-itanfelz00-filosofo5-1  | the philosopher is hungry
+t3-iic2523-itanfelz00-filosofo5-1  | my sticks are:  false false
+t3-iic2523-itanfelz00-filosofo5-1  | pls pass me my LEFT
+t3-iic2523-itanfelz00-filosofo5-1  | pls pass me my RIGHT
+t3-iic2523-itanfelz00-filosofo1-1  | I HAVE ATE:  3  times
+t3-iic2523-itanfelz00-filosofo5-1  | waiting for my sticks
+t3-iic2523-itanfelz00-filosofo1-1  | Thinking for:  4 seconds
+t3-iic2523-itanfelz00-filosofo1-1  | Done Eating
+t3-iic2523-itanfelz00-filosofo1-1  | have they asked me for my sticks?:  false false
+t3-iic2523-itanfelz00-filosofo5-1  | Received stick from RIGHT
+t3-iic2523-itanfelz00-filosofo4-1  | have they asked me for my sticks?:  false true
+t3-iic2523-itanfelz00-filosofo4-1  | passing my RIGHT fork
+t3-iic2523-itanfelz00-filosofo1-1  | have they asked me for my sticks?:  true false
+t3-iic2523-itanfelz00-filosofo5-1  | waiting for my sticks
+t3-iic2523-itanfelz00-filosofo5-1  | Received stick from LEFT
+t3-iic2523-itanfelz00-filosofo5-1  | EATING
+t3-iic2523-itanfelz00-filosofo1-1  | passing my LEFT fork
+t3-iic2523-itanfelz00-filosofo3-1  | I HAVE ATE:  4  times
+t3-iic2523-itanfelz00-filosofo4-1  | the philosopher is hungry
+t3-iic2523-itanfelz00-filosofo3-1  | Thinking for:  2 seconds
+t3-iic2523-itanfelz00-filosofo3-1  | Done Eating
+t3-iic2523-itanfelz00-filosofo3-1  | have they asked me for my sticks?:  false false
+t3-iic2523-itanfelz00-filosofo3-1  | have they asked me for my sticks?:  false true
+t3-iic2523-itanfelz00-filosofo3-1  | passing my RIGHT fork
+t3-iic2523-itanfelz00-filosofo4-1  | my sticks are:  false false
+t3-iic2523-itanfelz00-filosofo4-1  | pls pass me my LEFT
+t3-iic2523-itanfelz00-filosofo4-1  | pls pass me my RIGHT
+t3-iic2523-itanfelz00-filosofo4-1  | waiting for my sticks
+t3-iic2523-itanfelz00-filosofo4-1  | Received stick from LEFT
+t3-iic2523-itanfelz00-filosofo4-1  | waiting for my sticks
+t3-iic2523-itanfelz00-filosofo4-1  | Received stick from RIGHT
+t3-iic2523-itanfelz00-filosofo5-1  | I HAVE ATE:  3  times
+t3-iic2523-itanfelz00-filosofo4-1  | EATING
+t3-iic2523-itanfelz00-filosofo5-1  | Thinking for:  1 seconds
+t3-iic2523-itanfelz00-filosofo5-1  | Done Eating
+t3-iic2523-itanfelz00-filosofo5-1  | have they asked me for my sticks?:  false false
+t3-iic2523-itanfelz00-filosofo5-1  | have they asked me for my sticks?:  true false
+t3-iic2523-itanfelz00-filosofo5-1  | passing my LEFT fork
+t3-iic2523-itanfelz00-filosofo2-1  | the philosopher is hungry
+t3-iic2523-itanfelz00-filosofo2-1  | my sticks are:  false false
+t3-iic2523-itanfelz00-filosofo1-1  | have they asked me for my sticks?:  false true
+t3-iic2523-itanfelz00-filosofo3-1  | have they asked me for my sticks?:  true false
+t3-iic2523-itanfelz00-filosofo3-1  | passing my LEFT fork
+t3-iic2523-itanfelz00-filosofo2-1  | pls pass me my LEFT
+t3-iic2523-itanfelz00-filosofo1-1  | passing my RIGHT fork
+t3-iic2523-itanfelz00-filosofo2-1  | pls pass me my RIGHT
+t3-iic2523-itanfelz00-filosofo2-1  | waiting for my sticks
+t3-iic2523-itanfelz00-filosofo2-1  | Received stick from LEFT
+t3-iic2523-itanfelz00-filosofo2-1  | waiting for my sticks
+t3-iic2523-itanfelz00-filosofo2-1  | Received stick from RIGHT
+t3-iic2523-itanfelz00-filosofo2-1  | EATING
+t3-iic2523-itanfelz00-filosofo5-1  | the philosopher is hungry
+t3-iic2523-itanfelz00-filosofo5-1  | my sticks are:  false true
+t3-iic2523-itanfelz00-filosofo4-1  | I HAVE ATE:  4  times
+t3-iic2523-itanfelz00-filosofo5-1  | pls pass me my LEFT
+t3-iic2523-itanfelz00-filosofo4-1  | Thinking for:  3 seconds
+t3-iic2523-itanfelz00-filosofo5-1  | waiting for my sticks
+t3-iic2523-itanfelz00-filosofo5-1  | Received stick from LEFT
+t3-iic2523-itanfelz00-filosofo5-1  | EATING
+t3-iic2523-itanfelz00-filosofo4-1  | Done Eating
+t3-iic2523-itanfelz00-filosofo4-1  | have they asked me for my sticks?:  false false
+t3-iic2523-itanfelz00-filosofo4-1  | have they asked me for my sticks?:  false true
+t3-iic2523-itanfelz00-filosofo4-1  | passing my RIGHT fork
+t3-iic2523-itanfelz00-filosofo3-1  | the philosopher is hungry
+t3-iic2523-itanfelz00-filosofo3-1  | my sticks are:  false false
+t3-iic2523-itanfelz00-filosofo2-1  | I HAVE ATE:  4  times
+t3-iic2523-itanfelz00-filosofo4-1  | have they asked me for my sticks?:  true false
+t3-iic2523-itanfelz00-filosofo4-1  | passing my LEFT fork
+t3-iic2523-itanfelz00-filosofo3-1  | pls pass me my LEFT
+t3-iic2523-itanfelz00-filosofo3-1  | pls pass me my RIGHT
+t3-iic2523-itanfelz00-filosofo3-1  | waiting for my sticks
+t3-iic2523-itanfelz00-filosofo2-1  | Thinking for:  2 seconds
+t3-iic2523-itanfelz00-filosofo2-1  | Done Eating
+t3-iic2523-itanfelz00-filosofo2-1  | have they asked me for my sticks?:  false false
+t3-iic2523-itanfelz00-filosofo2-1  | have they asked me for my sticks?:  false true
+t3-iic2523-itanfelz00-filosofo2-1  | passing my RIGHT fork
+t3-iic2523-itanfelz00-filosofo3-1  | Received stick from LEFT
+t3-iic2523-itanfelz00-filosofo3-1  | waiting for my sticks
+t3-iic2523-itanfelz00-filosofo3-1  | Received stick from RIGHT
+t3-iic2523-itanfelz00-filosofo3-1  | EATING
+t3-iic2523-itanfelz00-filosofo5-1  | I HAVE ATE:  4  times
+t3-iic2523-itanfelz00-filosofo5-1  | Thinking for:  3 seconds
+t3-iic2523-itanfelz00-filosofo5-1  | Done Eating
+t3-iic2523-itanfelz00-filosofo5-1  | have they asked me for my sticks?:  false false
+t3-iic2523-itanfelz00-filosofo3-1  | I HAVE ATE:  5  times
+t3-iic2523-itanfelz00-filosofo3-1  | Telling my neighbours that I'm done
+t3-iic2523-itanfelz00-filosofo3-1  | Done Eating
+t3-iic2523-itanfelz00-filosofo3-1  | have they asked me for my sticks?:  false false
+t3-iic2523-itanfelz00-filosofo1-1  | the philosopher is hungry
+t3-iic2523-itanfelz00-filosofo1-1  | my sticks are:  false false
+t3-iic2523-itanfelz00-filosofo1-1  | pls pass me my LEFT
+t3-iic2523-itanfelz00-filosofo1-1  | pls pass me my RIGHT
+t3-iic2523-itanfelz00-filosofo1-1  | waiting for my sticks
+t3-iic2523-itanfelz00-filosofo1-1  | Received stick from LEFT
+t3-iic2523-itanfelz00-filosofo5-1  | have they asked me for my sticks?:  false true
+t3-iic2523-itanfelz00-filosofo1-1  | waiting for my sticks
+t3-iic2523-itanfelz00-filosofo5-1  | passing my RIGHT fork
+t3-iic2523-itanfelz00-filosofo2-1  | have they asked me for my sticks?:  true false
+t3-iic2523-itanfelz00-filosofo2-1  | passing my LEFT fork
+t3-iic2523-itanfelz00-filosofo1-1  | Received stick from RIGHT
+t3-iic2523-itanfelz00-filosofo1-1  | EATING
+t3-iic2523-itanfelz00-filosofo2-1  | the philosopher is hungry
+t3-iic2523-itanfelz00-filosofo2-1  | my sticks are:  false false
+t3-iic2523-itanfelz00-filosofo2-1  | pls pass me my LEFT
+t3-iic2523-itanfelz00-filosofo2-1  | pls pass me my RIGHT
+t3-iic2523-itanfelz00-filosofo2-1  | waiting for my sticks
+t3-iic2523-itanfelz00-filosofo2-1  | Received stick from RIGHT
+t3-iic2523-itanfelz00-filosofo2-1  | waiting for my sticks
+t3-iic2523-itanfelz00-filosofo3-1  | have they asked me for my sticks?:  true false
+t3-iic2523-itanfelz00-filosofo3-1  | passing my LEFT fork
+t3-iic2523-itanfelz00-filosofo4-1  | the philosopher is hungry
+t3-iic2523-itanfelz00-filosofo4-1  | my sticks are:  false false
+t3-iic2523-itanfelz00-filosofo4-1  | pls pass me my LEFT
+t3-iic2523-itanfelz00-filosofo4-1  | pls pass me my RIGHT
+t3-iic2523-itanfelz00-filosofo4-1  | waiting for my sticks
+t3-iic2523-itanfelz00-filosofo5-1  | have they asked me for my sticks?:  true false
+t3-iic2523-itanfelz00-filosofo4-1  | Received stick from LEFT
+t3-iic2523-itanfelz00-filosofo1-1  | I HAVE ATE:  4  times
+t3-iic2523-itanfelz00-filosofo3-1  | have they asked me for my sticks?:  false true
+t3-iic2523-itanfelz00-filosofo5-1  | passing my LEFT fork
+t3-iic2523-itanfelz00-filosofo2-1  | Received stick from LEFT
+t3-iic2523-itanfelz00-filosofo2-1  | EATING
+t3-iic2523-itanfelz00-filosofo1-1  | Thinking for:  4 seconds
+t3-iic2523-itanfelz00-filosofo4-1  | waiting for my sticks
+t3-iic2523-itanfelz00-filosofo3-1  | passing my RIGHT fork
+t3-iic2523-itanfelz00-filosofo1-1  | Done Eating
+t3-iic2523-itanfelz00-filosofo1-1  | have they asked me for my sticks?:  false false
+t3-iic2523-itanfelz00-filosofo1-1  | have they asked me for my sticks?:  false true
+t3-iic2523-itanfelz00-filosofo4-1  | Received stick from RIGHT
+t3-iic2523-itanfelz00-filosofo1-1  | passing my RIGHT fork
+t3-iic2523-itanfelz00-filosofo4-1  | EATING
+t3-iic2523-itanfelz00-filosofo5-1  | the philosopher is hungry
+t3-iic2523-itanfelz00-filosofo5-1  | my sticks are:  false false
+t3-iic2523-itanfelz00-filosofo1-1  | have they asked me for my sticks?:  true false
+t3-iic2523-itanfelz00-filosofo5-1  | pls pass me my LEFT
+t3-iic2523-itanfelz00-filosofo5-1  | pls pass me my RIGHT
+t3-iic2523-itanfelz00-filosofo5-1  | waiting for my sticks
+t3-iic2523-itanfelz00-filosofo1-1  | passing my LEFT fork
+t3-iic2523-itanfelz00-filosofo5-1  | Received stick from RIGHT
+t3-iic2523-itanfelz00-filosofo5-1  | waiting for my sticks
+t3-iic2523-itanfelz00-filosofo2-1  | I HAVE ATE:  5  times
+t3-iic2523-itanfelz00-filosofo2-1  | Telling my neighbours that I'm done
+t3-iic2523-itanfelz00-filosofo2-1  | Done Eating
+t3-iic2523-itanfelz00-filosofo2-1  | have they asked me for my sticks?:  false false
+t3-iic2523-itanfelz00-filosofo4-1  | I HAVE ATE:  5  times
+t3-iic2523-itanfelz00-filosofo4-1  | Telling my neighbours that I'm done
+t3-iic2523-itanfelz00-filosofo4-1  | Done Eating
+t3-iic2523-itanfelz00-filosofo4-1  | have they asked me for my sticks?:  false false
+t3-iic2523-itanfelz00-filosofo4-1  | have they asked me for my sticks?:  false true
+t3-iic2523-itanfelz00-filosofo4-1  | passing my RIGHT fork
+t3-iic2523-itanfelz00-filosofo5-1  | Received stick from LEFT
+t3-iic2523-itanfelz00-filosofo5-1  | EATING
+t3-iic2523-itanfelz00-filosofo3-1  | I ate all my food, and both my neighbours too, I'm leaving now and remember kids never stop thinkin!
+t3-iic2523-itanfelz00-filosofo3-1 exited with code 0
+t3-iic2523-itanfelz00-filosofo5-1  | I HAVE ATE:  5  times
+t3-iic2523-itanfelz00-filosofo5-1  | Telling my neighbours that I'm done
+t3-iic2523-itanfelz00-filosofo5-1  | Done Eating
+t3-iic2523-itanfelz00-filosofo5-1  | have they asked me for my sticks?:  false false
+t3-iic2523-itanfelz00-filosofo4-1  | I ate all my food, and both my neighbours too, I'm leaving now and remember kids never stop thinkin!
+t3-iic2523-itanfelz00-filosofo4-1 exited with code 0
+t3-iic2523-itanfelz00-filosofo1-1  | the philosopher is hungry
+t3-iic2523-itanfelz00-filosofo1-1  | my sticks are:  false false
+t3-iic2523-itanfelz00-filosofo1-1  | pls pass me my LEFT
+t3-iic2523-itanfelz00-filosofo1-1  | pls pass me my RIGHT
+t3-iic2523-itanfelz00-filosofo5-1  | have they asked me for my sticks?:  false true
+t3-iic2523-itanfelz00-filosofo2-1  | have they asked me for my sticks?:  true false
+t3-iic2523-itanfelz00-filosofo5-1  | passing my RIGHT fork
+t3-iic2523-itanfelz00-filosofo1-1  | waiting for my sticks
+t3-iic2523-itanfelz00-filosofo2-1  | passing my LEFT fork
+t3-iic2523-itanfelz00-filosofo1-1  | Received stick from LEFT
+t3-iic2523-itanfelz00-filosofo1-1  | waiting for my sticks
+t3-iic2523-itanfelz00-filosofo1-1  | Received stick from RIGHT
+t3-iic2523-itanfelz00-filosofo1-1  | EATING
+t3-iic2523-itanfelz00-filosofo1-1  | I HAVE ATE:  5  times
+t3-iic2523-itanfelz00-filosofo1-1  | Telling my neighbours that I'm done
+t3-iic2523-itanfelz00-filosofo1-1  | Done Eating
+t3-iic2523-itanfelz00-filosofo1-1  | have they asked me for my sticks?:  false false
+t3-iic2523-itanfelz00-filosofo5-1  | I ate all my food, and both my neighbours too, I'm leaving now and remember kids never stop thinkin!
+t3-iic2523-itanfelz00-filosofo2-1  | I ate all my food, and both my neighbours too, I'm leaving now and remember kids never stop thinkin!
+t3-iic2523-itanfelz00-filosofo1-1  | I ate all my food, and both my neighbours too, I'm leaving now and remember kids never stop thinkin!
+t3-iic2523-itanfelz00-filosofo5-1 exited with code 0
+t3-iic2523-itanfelz00-filosofo2-1 exited with code 0
+t3-iic2523-itanfelz00-filosofo1-1 exited with code 0
